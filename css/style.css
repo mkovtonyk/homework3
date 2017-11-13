@@ -1,0 +1,46 @@
+body{
+  background: url(../img/fon.jpg) 100% no-repeat;
+  width: auto;
+  height: auto;
+}
+.wrapper{
+  vertical-align: top;
+  width: 478px;
+  margin: 0px 440px;
+  padding: 25px;
+  border: 1px solid black;
+  background-color: white;
+}
+h1{
+  color: #263555;
+  font-family: Arial, sans-serif;
+  font-size: 500;
+}
+h2{
+  color: #263555;
+  font-family: Arial, sans-serif;
+  font-size: 500;
+}
+h3{
+  color: #263555;
+  font-family: Arial, sans-serif;
+  font-size: 500;
+}
+.title1{
+color: #263555;
+font-family: Arial, sans-serif;
+font-size: 300;
+font-weight: bold;
+}
+.text{
+  font-size: 200;
+  color: black
+}
+.list{
+  display:block;
+  width: 240px;
+  color: #263555;
+  font-family: Arial, sans-serif;
+  font-size: 300;
+  font-weight: bold;
+}
